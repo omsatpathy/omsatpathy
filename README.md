@@ -33,14 +33,10 @@ ___
 ___
 
 ## Connect with me 
-[<img alt="github" width=40px src="https://cdn-icons-png.flaticon.com/512/1240/1240971.png"/>](https://github.com/omsatpathy)
+[<img alt="github" width=40px src="https://cdn-icons-png.flaticon.com/128/1051/1051326.png"/>](https://github.com/omsatpathy)
 &nbsp;&nbsp;
-[<img alt="instagram" width=40px src="https://cdn-icons-png.flaticon.com/512/2111/2111491.png"/>](https://www.instagram.com/om_satpathy007/)
+[<img alt="instagram" width=40px src="https://cdn-icons-png.flaticon.com/512/1400/1400829.png"/>](https://www.instagram.com/om_satpathy007/)
 &nbsp;&nbsp;
-[<img alt="instagram" width=40px src="https://cdn-icons-png.flaticon.com/512/739/739257.png"/>](https://twitter.com/OmSatpathy3)
+[<img alt="instagram" width=40px src="https://cdn-icons-png.flaticon.com/128/25/25347.png"/>](https://twitter.com/OmSatpathy3)
 &nbsp;&nbsp;
-[<img alt="email" width=40px src="https://cdn-icons-png.flaticon.com/128/646/646094.png"/>](mailto:"omsatpathy115@gmail.com")
-
-
-
-
+[<img alt="email" width=40px src="https://cdn-icons-png.flaticon.com/512/646/646135.png"/>](mailto:"omsatpathy115@gmail.com")
