@@ -6,7 +6,7 @@ ___
 - :student:I'm a Computer Science undergrad in [VSSUT](https://www.vssut.ac.in
 )
 - :computer: Primarily focused on front-end Web development  
-- 🥅 2022 goals : learning about Web 3.0
+- 🥅 2023 goals : learning about Web 3.0
 - 🤩Leisure activities : singing :guitar: ,working out :muscle: , reading books :book:
 
 ___
