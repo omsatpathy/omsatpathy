@@ -1,4 +1,4 @@
-# Hey, I'm Om :wave:
+# Namaste 🙏 Om here :wave:
 
 ___
 
