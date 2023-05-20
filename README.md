@@ -18,7 +18,7 @@ ___
 [<img alt="javascript" width=40px src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="reactJS" width=40px src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"/>](https://reactJS.org)
 [<img alt="nodeJS" width=40px src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png">](https://nodejs.org/en/)
-[<img alt="nextJS" width=40px src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">](https://nextjs.org/)
+[<img alt="nextJS" width=40px src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp">](https://nextjs.org/)
 [<img alt="expressJS" width=40px src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">](https://expressjs.com)
 [<img alt="nextJS" width=40px src="https://cdn.imgbin.com/21/7/11/imgbin-mongodb-nosql-database-computer-icons-others-xPEWD93BGke2LDUjqt8QMhffp.jpg">](https://www.mongodb.com)
 [<img alt="cpp" width=40px src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"/>](https://en.cppreference.com/w/)
@@ -36,7 +36,7 @@ ___
 ___
 
 ## Connect with me 
-[<img alt="linkedin" width=40px src="https://cdn-icons-png.flaticon.com/512/270/270798.png"/>](https://www.linkedin.com/in/omsatpathy007/)
+[<img alt="linkedin" width=40px src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"/>](https://www.linkedin.com/in/omsatpathy007/)
 &nbsp;&nbsp;
 [<img alt="instagram" width=40px src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>](https://www.instagram.com/om_satpathy007/)
 &nbsp;&nbsp;
