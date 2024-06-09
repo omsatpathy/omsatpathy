@@ -3,7 +3,7 @@
 ___
 
 ## About me
-- 💻:SDE @ [NCompass](https://www.ncompass.inc
+- 💻 SDE @ [NCompass](https://www.ncompass.inc
 )
 - :computer: Primarily focused on Web Development
 - 🥅 2024 goals : learning about Web 3.0
