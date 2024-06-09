@@ -3,10 +3,10 @@
 ___
 
 ## About me
-- :student:I'm a Computer Science undergrad in [VSSUT](https://www.vssut.ac.in
+- 💻 :I'm a SDE @ [NCompass](https://www.ncompass.inc
 )
-- :computer: Primarily focused on MERN stack
-- 🥅 2023 goals : learning about Web 3.0
+- :computer: Primarily focused on Web Development
+- 🥅 2024 goals : learning about Web 3.0
 - 🤩Leisure activities : singing :guitar: ,working out :muscle: , reading books :book:
 
 ___
